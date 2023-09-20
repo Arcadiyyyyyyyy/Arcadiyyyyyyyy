@@ -4,9 +4,9 @@
 #### Frameworks
 FastAPI, Flask, Python-telegram-bot, Aiogram
 #### Libraries
-Pandas, NumPY, Pydantic, Celery, python-binance, telebot, bs4, \
+Pandas, NumPY, Pydantic, Celery, python-binance, matplotlib, plotly, telebot, bs4, \
 requests, selenium, opencv, pymongo, pyrogram, telethon, pytest, \
-SQLalchemy(beginner), alembic(beginner)
+SQLalchemy(beginner), alembic(beginner), scikit-learn(beginner)
 ### SQL
 Currently beginner level. Can write simple queries on relational tables 
 ### Other
