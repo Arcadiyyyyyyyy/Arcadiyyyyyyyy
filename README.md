@@ -1,16 +1,17 @@
-### Hi there 👋
+## Technologies
+TODO 
+### Python
 
-<!--
-**Arcadiyyyyyyyy/Arcadiyyyyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Frameworks
+#### Libraries
 
-Here are some ideas to get you started:
+### SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other
+##### Docker
+I host all of my projects with docker. Which allowed me to learn a lot of it's functionality, as well as docker-compose. 
+##### MongoDB
+
+##### AWS
+
+##### GitHUB Actions
