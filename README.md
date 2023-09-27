@@ -11,7 +11,7 @@ SQLalchemy(beginner), alembic(beginner), scikit-learn(beginner)
 Currently beginner level. Can write simple queries on relational tables 
 ### Other
 ##### Docker
-I host all of my projects with docker. \
+I run all of my projects with docker. \
 Which allowed me to learn a lot of its functionality, as well as docker-compose. 
 ##### MongoDB
 I work with mongo as a main db in most of my projects. \
