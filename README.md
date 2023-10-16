@@ -23,4 +23,4 @@ Used mostly EC2, tho have some understanding of s3 and other services.
 I use gha as CI/CD in most of my projects, so I learned how to write and debug some \
 beginner level workflows(docker image build, tox run, autodeploy to single instance server)
 ##### Other
-Poetry, dotenv, tox, mypy, RabbitMQ, k8s(beginner), terraform(beginner), Postman, Bash
+Poetry, dotenv, tox, mypy, RabbitMQ, k8s(beginner), terraform(beginner), Postman, Bash, Regex
